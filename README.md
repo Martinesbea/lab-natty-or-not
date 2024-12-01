@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# AI Artistry: Explorando o Poder das IAs Generativas
 
 ## 📒 Descrição
 Este projeto explora o potencial das IAs Generativas para criar conteúdos envolventes e realistas. Utilizamos ferramentas modernas para produzir uma narrativa visual e textual sobre um mundo fictício, combinando arte digital, escrita criativa e animações. O objetivo é apresentar um portfólio criativo que demonstra o poder da inteligência artificial na geração de conteúdos inovadores.
@@ -24,5 +24,3 @@ Imagens: 10 ilustrações de alta qualidade dos cenários e personagens.
 Vídeo: Um curta-metragem de 2 minutos apresentando o mundo utópico.
 Repositório no GitHub: Contendo os arquivos do projeto e documentação completa
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
