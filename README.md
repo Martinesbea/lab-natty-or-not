@@ -14,6 +14,7 @@
 
 ## 🚀 Resultados
   O vídeo apresenta um avatar realista interagindo diretamente com o público em um ambiete virtual moderno, com qualidade visual e sonora.
+  https://app.heygen.com/share/b89e5eb5df3e433f84bc147cd3b7aa85
 
 ## 💭 Reflexão (Opcional)
   O desafio foi uma oportunidade incrível para explorar o potencial das IAs generativas. Este projeto reforça como as IAs estão transformando a criatividade e produção de conteúdo.
