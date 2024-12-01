@@ -18,3 +18,4 @@
 
 ## 💭 Reflexão (Opcional)
   O desafio foi uma oportunidade incrível para explorar o potencial das IAs generativas. Este projeto reforça como as IAs estão transformando a criatividade e produção de conteúdo.
+  
